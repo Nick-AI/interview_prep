@@ -1,0 +1,24 @@
+<script>
+  (function wireThemeToggle(){
+    var btn = document.getElementById('theme-toggle');
+    var label = document.getElementById('theme-toggle-label');
+    if (!btn || !label) return;
+    if (typeof jtd === 'undefined') return setTimeout(wireThemeToggle, 10);
+
+    function refreshLabel(){
+      label.textContent = jtd.getTheme() === 'dark' ? 'Light mode' : 'Dark mode';
+    }
+    refreshLabel();
+
+    btn.addEventListener('click', function(){
+      var next = jtd.getTheme() === 'dark' ? 'light' : 'dark';
+      jtd.setTheme(next);
+      localStorage.setItem('site-theme', next);
+      refreshLabel();
+    });
+  })();
+</script>
+
+{% if page.flashcard %}
+<script src="{{ '/assets/js/flashcards.js' | relative_url }}"></script>
+{% endif %}

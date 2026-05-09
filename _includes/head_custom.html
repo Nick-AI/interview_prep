@@ -1,0 +1,87 @@
+{% if page.flashcard %}<script>window.__flashcardMode = true;</script>{% endif %}
+
+<script>
+  (function applySavedTheme(){
+    var saved = localStorage.getItem('site-theme');
+    if (!saved) return;
+    if (typeof jtd === 'undefined') return setTimeout(applySavedTheme, 10);
+    jtd.setTheme(saved);
+  })();
+</script>
+
+<style>
+  /* Theme toggle button (just-the-docs header) */
+  .theme-toggle-btn {
+    margin-left: 0.75rem;
+    padding: 0.25rem 0.6rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--body-background-color);
+    color: var(--body-text-color);
+    cursor: pointer;
+    font-size: 0.85rem;
+    line-height: 1.2;
+    align-self: center;
+  }
+  .theme-toggle-btn:hover {
+    background: var(--sidebar-color);
+  }
+
+  /* Flashcard collapsibles */
+  body.flashcard-mode details.flashcard {
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.35rem 0;
+    margin: 0;
+  }
+  body.flashcard-mode details.flashcard > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.4rem 0.5rem 0.4rem 1.4rem;
+    position: relative;
+    border-radius: 4px;
+  }
+  body.flashcard-mode details.flashcard > summary::-webkit-details-marker { display: none; }
+  body.flashcard-mode details.flashcard > summary::before {
+    content: "▸";
+    position: absolute;
+    left: 0.4rem;
+    top: 0.55rem;
+    color: var(--link-color);
+    font-size: 0.85rem;
+    transition: transform 0.12s ease;
+    transform-origin: center;
+  }
+  body.flashcard-mode details.flashcard[open] > summary::before {
+    transform: rotate(90deg);
+  }
+  body.flashcard-mode details.flashcard > summary:hover {
+    background: var(--sidebar-color);
+  }
+  body.flashcard-mode details.flashcard > summary > h3 {
+    display: inline;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+  }
+  body.flashcard-mode details.flashcard > summary > h3 a.anchor-heading { display: none; }
+
+  body.flashcard-mode .flashcard-controls {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.75rem 0 1rem 0;
+    flex-wrap: wrap;
+  }
+  body.flashcard-mode .flashcard-controls button {
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: var(--body-background-color);
+    color: var(--body-text-color);
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  body.flashcard-mode .flashcard-controls button:hover {
+    background: var(--sidebar-color);
+  }
+</style>
