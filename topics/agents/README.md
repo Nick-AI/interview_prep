@@ -1,3 +1,9 @@
+---
+title: "AI Agents and Agentic Systems"
+has_children: true
+nav_order: 14
+---
+
 # AI Agents and Agentic Systems
 
 AI agents that plan, use tools, and reason in loops — architectures, memory, multi-agent systems, and failure modes.

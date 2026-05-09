@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "Vector Databases and Embeddings"
+nav_order: 1
+---
+
 # Vector Databases and Embeddings — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

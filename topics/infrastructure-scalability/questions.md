@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "AI Infrastructure and Scalability"
+nav_order: 2
+---
+
 # AI Infrastructure and Scalability
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

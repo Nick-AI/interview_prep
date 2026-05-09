@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "AI Safety, Ethics, and Responsible AI"
+nav_order: 1
+---
+
 # AI Safety, Ethics, and Responsible AI — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

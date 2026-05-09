@@ -1,3 +1,9 @@
+---
+title: "Vector Databases and Embeddings"
+has_children: true
+nav_order: 16
+---
+
 # Vector Databases and Embeddings
 
 Embedding models, vector representations, and similarity search infrastructure for semantic retrieval.

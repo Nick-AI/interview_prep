@@ -1,3 +1,8 @@
+---
+title: "Study Plan"
+nav_order: 3
+---
+
 # Study Plan
 
 Pick a path based on time available. Each path is sequenced; later items assume earlier ones.

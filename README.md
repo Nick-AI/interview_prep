@@ -1,3 +1,8 @@
+---
+title: "Home"
+nav_order: 1
+---
+
 # AI Engineering Interview Questions and Answers
 
 > Cheat sheet for AI Engineering interviews. Useful for AI Engineer, Gen AI Engineer, LLM Engineer, Agentic AI Engineer, AI Solutions Architect, AI Platform Engineer, Applied AI Engineer, MLOps Engineer, and LLMOps Engineer roles.

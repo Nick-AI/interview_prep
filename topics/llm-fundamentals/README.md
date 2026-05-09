@@ -1,3 +1,9 @@
+---
+title: "LLM Fundamentals"
+has_children: true
+nav_order: 11
+---
+
 # LLM Fundamentals
 
 Core LLM concepts: Transformer architecture, attention, tokenization, sampling, and modern variants (MoE, GQA, RoPE, KV cache, reasoning models).

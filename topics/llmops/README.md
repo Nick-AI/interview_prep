@@ -1,3 +1,9 @@
+---
+title: "LLMOps and Production AI"
+has_children: true
+nav_order: 18
+---
+
 # LLMOps and Production AI
 
 Operating LLM-powered applications in production — deployment, monitoring, cost control, versioning, reliability, prompt caching.

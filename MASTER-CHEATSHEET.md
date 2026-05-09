@@ -1,3 +1,8 @@
+---
+title: "Master Cheatsheet"
+nav_order: 2
+---
+
 # Master Cheat Sheet
 
 The 5-minute synthesis across all 14 topics. For depth, follow links to per-topic cheatsheets and Q&A.

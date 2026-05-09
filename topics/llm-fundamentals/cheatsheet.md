@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "LLM Fundamentals"
+nav_order: 1
+---
+
 # LLM Fundamentals — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

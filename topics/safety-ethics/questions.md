@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "AI Safety, Ethics, and Responsible AI"
+nav_order: 2
+---
+
 # AI Safety, Ethics, and Responsible AI
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

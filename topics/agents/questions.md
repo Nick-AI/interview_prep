@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "AI Agents and Agentic Systems"
+nav_order: 2
+---
+
 # AI Agents and Agentic Systems
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

@@ -1,3 +1,9 @@
+---
+title: "Behavioral and Scenario-Based Questions"
+has_children: true
+nav_order: 24
+---
+
 # Behavioral and Scenario-Based Questions
 
 Scenario and behavioral questions on judgment, communication, and decision-making in AI engineering roles.

@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "Prompt Engineering"
+nav_order: 2
+---
+
 # Prompt Engineering
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

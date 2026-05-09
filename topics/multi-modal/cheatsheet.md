@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "Multi-Modal AI"
+nav_order: 1
+---
+
 # Multi-Modal AI — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

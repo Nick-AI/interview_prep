@@ -1,3 +1,8 @@
+---
+title: "Verification Notes"
+nav_order: 99
+---
+
 # Verification Notes
 
 Spot-checks performed on numeric and factual claims in the topic cheatsheets, on 2026-05-06.

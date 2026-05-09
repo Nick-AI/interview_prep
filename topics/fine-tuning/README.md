@@ -1,3 +1,9 @@
+---
+title: "Fine-Tuning and Model Adaptation"
+has_children: true
+nav_order: 15
+---
+
 # Fine-Tuning and Model Adaptation
 
 Adapting pre-trained LLMs to new domains or tasks — full fine-tuning, PEFT (LoRA/QLoRA), RLHF, modern preference optimization (DPO/IPO/KTO/ORPO/GRPO), model merging.

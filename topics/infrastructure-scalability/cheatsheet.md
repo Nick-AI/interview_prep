@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "AI Infrastructure and Scalability"
+nav_order: 1
+---
+
 # AI Infrastructure and Scalability — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

@@ -1,3 +1,9 @@
+---
+title: "AI System Design"
+has_children: true
+nav_order: 17
+---
+
 # AI System Design
 
 End-to-end AI system design: architecture, latency/cost tradeoffs, scaling, multi-tenancy, and reliability patterns.

@@ -1,3 +1,9 @@
+---
+title: "AI Infrastructure and Scalability"
+has_children: true
+nav_order: 22
+---
+
 # AI Infrastructure and Scalability
 
 Hardware and serving infrastructure for LLMs — GPUs, parallelism, quantization, batching, and inference optimization.

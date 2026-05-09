@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "Vector Databases and Embeddings"
+nav_order: 2
+---
+
 # Vector Databases and Embeddings
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

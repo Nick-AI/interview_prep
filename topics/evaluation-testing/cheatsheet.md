@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "Evaluation and Testing"
+nav_order: 1
+---
+
 # Evaluation and Testing — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

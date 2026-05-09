@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "AI System Design"
+nav_order: 1
+---
+
 # AI System Design — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

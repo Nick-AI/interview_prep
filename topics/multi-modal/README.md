@@ -1,3 +1,9 @@
+---
+title: "Multi-Modal AI"
+has_children: true
+nav_order: 21
+---
+
 # Multi-Modal AI
 
 AI systems that handle text, images, audio, and video — vision-language models, diffusion, CLIP, cross-modal retrieval, and realtime voice.

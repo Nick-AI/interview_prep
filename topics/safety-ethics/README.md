@@ -1,3 +1,9 @@
+---
+title: "AI Safety, Ethics, and Responsible AI"
+has_children: true
+nav_order: 20
+---
+
 # AI Safety, Ethics, and Responsible AI
 
 Hallucinations, prompt injection, bias, privacy, and compliance — building safe, fair, accountable AI systems.

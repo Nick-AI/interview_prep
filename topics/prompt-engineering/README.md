@@ -1,3 +1,9 @@
+---
+title: "Prompt Engineering"
+has_children: true
+nav_order: 12
+---
+
 # Prompt Engineering
 
 Designing prompts to elicit reliable, structured, and safe LLM behavior — from few-shot to chain-of-thought to defensive techniques to prompt caching.

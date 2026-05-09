@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "Fine-Tuning and Model Adaptation"
+nav_order: 1
+---
+
 # Fine-Tuning and Model Adaptation — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

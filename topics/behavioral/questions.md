@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "Behavioral and Scenario-Based Questions"
+nav_order: 2
+---
+
 # Behavioral and Scenario-Based Questions
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

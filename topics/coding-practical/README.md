@@ -1,3 +1,9 @@
+---
+title: "Coding and Practical Implementation"
+has_children: true
+nav_order: 23
+---
+
 # Coding and Practical Implementation
 
 Hands-on coding tasks for AI engineering interviews. Each entry sketches the approach, libraries, and gotchas — not runnable code.

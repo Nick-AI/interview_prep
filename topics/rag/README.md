@@ -1,3 +1,9 @@
+---
+title: "Retrieval-Augmented Generation (RAG)"
+has_children: true
+nav_order: 13
+---
+
 # Retrieval-Augmented Generation (RAG)
 
 Retrieval-Augmented Generation: grounding LLM answers in external knowledge via chunking, embedding, search, and re-ranking.

@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "LLMOps and Production AI"
+nav_order: 1
+---
+
 # LLMOps and Production AI — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

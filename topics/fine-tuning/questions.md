@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "Fine-Tuning and Model Adaptation"
+nav_order: 2
+---
+
 # Fine-Tuning and Model Adaptation
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

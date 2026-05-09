@@ -1,3 +1,8 @@
+---
+title: "Glossary"
+nav_order: 4
+---
+
 # Glossary
 
 Alphabetical index of terms used throughout this repo. Definitions are intentionally short — see the linked topic for depth.

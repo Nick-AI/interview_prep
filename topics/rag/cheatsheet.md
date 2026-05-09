@@ -1,3 +1,9 @@
+---
+title: "Cheatsheet"
+parent: "Retrieval-Augmented Generation (RAG)"
+nav_order: 1
+---
+
 # Retrieval-Augmented Generation (RAG) — Cheat Sheet
 
 [← Back to index](../../README.md) · [Full Q&A](./questions.md)

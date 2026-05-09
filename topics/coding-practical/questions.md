@@ -1,3 +1,9 @@
+---
+title: "Questions"
+parent: "Coding and Practical Implementation"
+nav_order: 2
+---
+
 # Coding and Practical Implementation
 
 [← Back to index](../../README.md) · [Cheat sheet](./cheatsheet.md)

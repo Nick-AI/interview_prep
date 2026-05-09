@@ -1,3 +1,9 @@
+---
+title: "Evaluation and Testing"
+has_children: true
+nav_order: 19
+---
+
 # Evaluation and Testing
 
 Measuring LLM and AI-system quality with offline metrics, LLM-as-judge, red teaming, and continuous evaluation.
