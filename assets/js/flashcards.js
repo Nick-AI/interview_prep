@@ -365,9 +365,12 @@
     if (!sourceDeck.length) return;
 
     overlay = buildOverlay();
+    var theme = (typeof jtd !== 'undefined' && jtd.getTheme) ? jtd.getTheme() : 'light';
+    overlay.dataset.theme = theme === 'dark' ? 'dark' : 'light';
     document.body.appendChild(overlay);
 
     savedScrollY = window.scrollY || window.pageYOffset || 0;
+    document.documentElement.classList.add('flashcard-slideshow-open');
     document.body.classList.add('flashcard-slideshow-open');
 
     keyHandler = function(e){
@@ -389,6 +392,7 @@
     keyHandler = null;
     overlay.parentNode.removeChild(overlay);
     overlay = null;
+    document.documentElement.classList.remove('flashcard-slideshow-open');
     document.body.classList.remove('flashcard-slideshow-open');
     window.scrollTo(0, savedScrollY);
   }
