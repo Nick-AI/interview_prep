@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Evaluation and Testing"
 nav_order: 2
+flashcard: true
 ---
 
 # Evaluation and Testing

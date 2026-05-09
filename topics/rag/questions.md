@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Retrieval-Augmented Generation (RAG)"
 nav_order: 2
+flashcard: true
 ---
 
 # Retrieval-Augmented Generation (RAG)

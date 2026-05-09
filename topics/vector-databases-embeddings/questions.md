@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Vector Databases and Embeddings"
 nav_order: 2
+flashcard: true
 ---
 
 # Vector Databases and Embeddings

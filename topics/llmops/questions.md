@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "LLMOps and Production AI"
 nav_order: 2
+flashcard: true
 ---
 
 # LLMOps and Production AI

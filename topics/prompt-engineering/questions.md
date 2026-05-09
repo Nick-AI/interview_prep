@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Prompt Engineering"
 nav_order: 2
+flashcard: true
 ---
 
 # Prompt Engineering

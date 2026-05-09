@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Fine-Tuning and Model Adaptation"
 nav_order: 2
+flashcard: true
 ---
 
 # Fine-Tuning and Model Adaptation

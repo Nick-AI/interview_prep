@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "AI Safety, Ethics, and Responsible AI"
 nav_order: 2
+flashcard: true
 ---
 
 # AI Safety, Ethics, and Responsible AI

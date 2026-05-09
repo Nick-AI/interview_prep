@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "LLM Fundamentals"
 nav_order: 2
+flashcard: true
 ---
 
 # LLM Fundamentals

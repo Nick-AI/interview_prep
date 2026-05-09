@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Coding and Practical Implementation"
 nav_order: 2
+flashcard: true
 ---
 
 # Coding and Practical Implementation

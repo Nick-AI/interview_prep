@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Behavioral and Scenario-Based Questions"
 nav_order: 2
+flashcard: true
 ---
 
 # Behavioral and Scenario-Based Questions

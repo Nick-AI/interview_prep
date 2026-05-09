@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "Multi-Modal AI"
 nav_order: 2
+flashcard: true
 ---
 
 # Multi-Modal AI

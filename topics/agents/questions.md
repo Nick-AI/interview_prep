@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "AI Agents and Agentic Systems"
 nav_order: 2
+flashcard: true
 ---
 
 # AI Agents and Agentic Systems

@@ -2,6 +2,7 @@
 title: "Questions"
 parent: "AI System Design"
 nav_order: 2
+flashcard: true
 ---
 
 # AI System Design
