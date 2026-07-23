@@ -53,8 +53,9 @@ Crash-course video covering all six: [AI Engineering Explained: LLM, RAG, MCP, A
 | 12 | AI Infrastructure and Scalability | [README](./topics/infrastructure-scalability/README.md) | [questions](./topics/infrastructure-scalability/questions.md) | [cheat sheet](./topics/infrastructure-scalability/cheatsheet.md) | 27 |
 | 13 | Coding and Practical Implementation | [README](./topics/coding-practical/README.md) | [questions](./topics/coding-practical/questions.md) | [cheat sheet](./topics/coding-practical/cheatsheet.md) | 22 |
 | 14 | Behavioral and Scenario-Based Questions | [README](./topics/behavioral/README.md) | [questions](./topics/behavioral/questions.md) | [cheat sheet](./topics/behavioral/cheatsheet.md) | 22 |
+| 🎯 | Interview 2026-07-22 — LLM/GenAI (mixed: RAG, RAG fusion, KGs, fine-tuning, metrics) | [README](./07222026/README.md) | [questions](./07222026/questions.md) | [cheat sheet](./07222026/cheatsheet.md) | 73 |
 
-**Total: 494 questions across 14 topics**, plus a master cheat sheet, study plan, and glossary at the repo root. Each `Frontier (2025)` section in the topic Q&As covers 2025-era frontier topics (reasoning models, prompt caching, DPO family, coding agents, voice AI, modern inference engines).
+**Total: 494 questions across 14 topics**, plus a dated interview-prep set (2026-07-22, 73 Q), a master cheat sheet, study plan, and glossary at the repo root. Each `Frontier (2025)` section in the topic Q&As covers 2025-era frontier topics (reasoning models, prompt caching, DPO family, coding agents, voice AI, modern inference engines).
 
 Each `questions.md` follows the same shape: question heading → one-sentence TL;DR → short paragraph elaboration. Each `cheatsheet.md` is a ≤2-minute read condensing the most-tested concepts, decision rules, and common pitfalls for that topic.
 
